@@ -7,7 +7,7 @@ public class Main {
     public Main() {
         main2 = new Main2();
         System.out.println("1255553");
-        System.out.println("1255553");
+        System.out.println("125555121231233ff");
     }
 
     public String velocity;
