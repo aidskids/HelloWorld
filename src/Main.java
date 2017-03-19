@@ -8,7 +8,7 @@ public class Main {
 
         }
         System.out.println(main2);
-        System.out.println("1255553发发发kkk");
+        System.out.println("1255553发发发yyy");
     }
     private static void doSome() {
         System.out.println("Hello World!哈123123喽你妹！");
