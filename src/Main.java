@@ -7,13 +7,14 @@ public class Main {
     public Main() {
         main2 = new Main2();
         System.out.println("1255553");
+        System.out.println("1255553");
     }
 
     public String velocity;
 
     private static void doSome() {
         System.out.println("Hello World!哈喽你妹！");
-        System.out.println("efjiejfie");
+        System.out.println("efj12312312iejfie");
         System.out.println();
 
     }
