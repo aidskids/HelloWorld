@@ -6,6 +6,7 @@ public class Main {
 
     public Main() {
         main2 = new Main2();
+        System.out.println("1255553");
     }
 
     public String velocity;
