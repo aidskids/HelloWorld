@@ -12,7 +12,7 @@ public class Main {
     public String velocity;
 
     private static void doSome() {
-        System.out.println("Hello World!哈喽你妹！");
+        System.out.println("Hello World!哈123123喽你妹！");
         System.out.println("efjiejfie");
         System.out.println();
 
